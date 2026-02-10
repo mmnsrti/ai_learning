@@ -11,5 +11,9 @@ ml/Ml_projects/Human Face Emotions/ckpt_shufflenet_v2.pth
 ml/Ml_projects/Human Face Emotions/ckpt_squeezenet1_1.pth
 nlp/.../Documents/Babel/babel-2025-12-09.backup.zip
 nlp/.../Documents/Babel/babel-2025-12-09.backup.zip
+<<<<<<< HEAD
 iran-used-cars-dataset
 pelak_dataset.zip
+=======
+ml/Ml_projects/car brand/dataset
+>>>>>>> a4ebca9ae1d1480ff4dd3c426f09ccb834a24639
